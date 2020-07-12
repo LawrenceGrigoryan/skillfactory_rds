@@ -2,7 +2,7 @@
 
 The main idea of this project is to analyse (make an EDA) the dataset which contains characteristics of students' living conditions and decide which of them have an impact on math exam score in order to reveal students who are under risk of getting unsatisfying scores. 
 
-It is essential to:
+**It is essential to:**
 
 1. Preview data
 2. Clean data from outliers and fill missing values
@@ -10,7 +10,7 @@ It is essential to:
 4. Check the correlation between numeric features
 5. Conduct Student's t-test for categorial features
 
-The data contains the following information about students:
+**The data contains the following information about students:**
 
 1. school — school abbreviation where a student studies
 

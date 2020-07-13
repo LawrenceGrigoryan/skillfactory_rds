@@ -1,2 +1,2 @@
 # skillfactory_rd
-Data Science projects
+Data Science Projects

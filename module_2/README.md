@@ -18,7 +18,7 @@ The main idea of this project is to analyse (make an EDA) the dataset which cont
 
 3. age — student's age (from 15 to 22)
 
-4. address — where a student lives ('U' - urban are, 'R' - rural are)
+4. address — where a student lives ('U' - urban area, 'R' - rural area)
 
 5. famsize — family size ('LE3' <= 3, 'GT3' >3)
 

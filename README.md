@@ -1,2 +1,2 @@
-# skillfactory_rd
+# skillfactory_rds
 Data Science Projects

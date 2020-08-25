@@ -8,8 +8,6 @@ The main idea of this project is to clean messy dataset, create new features and
 
 The initial dataset contains the following columns:
 
-The initial version of dataset consists of 10 columns containing the following information:
-
 * Restaurant_id — id of a restaurant / restaurant chain;
 * City — restaurant's location (city);
 * Cuisine Style — cuisine which a dish can be related to;

@@ -18,3 +18,5 @@ The initial dataset contains the following columns:
 * Reviews — info about two first reviews that are displayed on TripAdvisor;
 * URL_TA — URL of restaurant's web-page on TripAdvosor;
 * ID_TA — restaurant's id in TripAdvisor's Database.
+
+Check this **competition** on **Kaggle**: https://www.kaggle.com/c/sf-dst-restaurant-rating/overview

@@ -23,7 +23,7 @@ The idea is to build a classification model based on client's info which predict
 17. sna - relation to bank's clients (i.e. if a client has friends/relatives who are also clients of this bank)
 18. region_rating - client's region rating
 
-Target metrics is **AUC**
+Target metric is **AUC**
 
 
 
